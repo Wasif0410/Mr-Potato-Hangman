@@ -19,3 +19,9 @@ However, if you make a wrong guess, a part of his body disappears! Challenge you
 - **Quick Minimize:** Effortlessly return the image to its regular size through a single click on the minimize button, complete with animation.
 
 ### Preview:
+
+Check out the LINK:
+
+https://github.com/Wasif0410/Mr-Potato-Hangman/assets/115382944/f99aa805-d952-42d9-bc9b-e826a7de917d
+
+
