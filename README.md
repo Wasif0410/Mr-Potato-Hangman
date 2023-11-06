@@ -1,6 +1,10 @@
 # Mr-Potato-Hangman
 
-Mr. Potato Hangman" is a delightful twist on the classic word-guessing game. 
+*Developed an Engaging Mr. Potato Hangman Game with a Technical Stack that includes JavaScript, HTML, CSS, Bootstrap, and jQuery*
+<br>
+<br>
+
+Mr. Potato Hangman is a delightful twist on the classic word-guessing game. 
 
 Join Mr. Potato in a wordplay adventure where you must guess the hidden word correctly to keep his body intact. 
 
