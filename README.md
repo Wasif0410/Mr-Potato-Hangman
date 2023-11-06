@@ -20,7 +20,7 @@ However, if you make a wrong guess, a part of his body disappears! Challenge you
 
 ### Preview:
 
-Check out the LINK:
+Check out the LINK: https://wasif0410.github.io/Mr-Potato-Hangman/
 
 https://github.com/Wasif0410/Mr-Potato-Hangman/assets/115382944/f99aa805-d952-42d9-bc9b-e826a7de917d
 
